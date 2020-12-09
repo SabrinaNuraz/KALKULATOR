@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\kalkulator_siti\bin\Debug\kalkulator_siti.exe.config
+C:\Users\ASUS\source\repos\kalkulator_siti\bin\Debug\kalkulator_siti.exe
+C:\Users\ASUS\source\repos\kalkulator_siti\bin\Debug\kalkulator_siti.pdb
+C:\Users\ASUS\source\repos\kalkulator_siti\obj\Debug\kalkulator_siti.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\kalkulator_siti\obj\Debug\kalkulator_siti.Form1.resources
+C:\Users\ASUS\source\repos\kalkulator_siti\obj\Debug\kalkulator_siti.Properties.Resources.resources
+C:\Users\ASUS\source\repos\kalkulator_siti\obj\Debug\kalkulator_siti.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\kalkulator_siti\obj\Debug\kalkulator_siti.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\kalkulator_siti\obj\Debug\kalkulator_siti.exe
+C:\Users\ASUS\source\repos\kalkulator_siti\obj\Debug\kalkulator_siti.pdb
