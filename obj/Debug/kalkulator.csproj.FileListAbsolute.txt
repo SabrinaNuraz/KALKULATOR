@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\kalkulator\bin\Debug\kalkulator_siti.exe.config
+C:\Users\user\source\repos\kalkulator\bin\Debug\kalkulator_siti.exe
+C:\Users\user\source\repos\kalkulator\bin\Debug\kalkulator_siti.pdb
+C:\Users\user\source\repos\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kalkulator\obj\Debug\kalkulator_siti.exe
+C:\Users\user\source\repos\kalkulator\obj\Debug\kalkulator_siti.pdb
+C:\Users\user\source\repos\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\user\source\repos\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\user\source\repos\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache

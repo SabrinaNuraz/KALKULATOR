@@ -1,5 +1,5 @@
 ﻿
-namespace kalkulator_siti
+namespace kalkulator
 {
     partial class Form1
     {
